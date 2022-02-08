@@ -1,0 +1,46 @@
+{
+  "name": "dashboard1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^26.0.0",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^26.0.0",
+    "@ckeditor/ckeditor5-easy-image": "^26.0.0",
+    "@ckeditor/ckeditor5-export-pdf": "^26.0.0",
+    "@ckeditor/ckeditor5-theme-lark": "^26.0.0",
+    "@ckeditor/ckeditor5-vue": "^2.0.1",
+    "@ckeditor/ckeditor5-vue2": "^1.0.5",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.6.5",
+    "jspdf": "^2.3.0",
+    "jspdf-autotable": "^3.5.14",
+    "sortablejs": "^1.13.0",
+    "v-chartist": "^0.1.6",
+    "vue": "^2.6.11",
+    "vue-chartist": "^2.3.1",
+    "vue-chartjs": "^3.5.1",
+    "vue-feather-icons": "^5.1.0",
+    "vue-json-csv": "^1.2.12",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.2.0",
+    "vue-simple-context-menu": "^3.4.1",
+    "vuedraggable": "^2.24.3",
+    "vuedraggable-multi": "^1.0.7",
+    "vuetify": "^2.4.0",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.1",
+    "vue-cli-plugin-vuetify": "~2.1.0",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  }
+}
